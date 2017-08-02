@@ -946,7 +946,7 @@ h3 {
 			width: 100%;
 			text-align: center;
 			height: 64px;
-			padding: 10px 0 0 5px;			
+			padding: 10px 0 0 5px;
 			color: #8F8F8F;
 			span {
 				font-family: 'SFUIDisplay-Semibold';
@@ -1285,6 +1285,9 @@ h3 {
 	}
 	.product-delivery p {
 		font-size: 12px;
+	}
+	.center-block {
+		text-align: left;
 	}
 	/* how to get */
 	.steps {
