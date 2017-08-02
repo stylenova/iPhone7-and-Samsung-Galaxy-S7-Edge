@@ -1328,6 +1328,10 @@ h3 {
 		}
 		.bk_buy_button {
 			margin: 0;
+
+			&:hover {
+				cursor: pointer;
+			}
 		}
 		.form__guarantee-gift {
 			width: 100% !important;

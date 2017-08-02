@@ -29,6 +29,7 @@ const isDevelopment = true;
 
 const moduleJS  = [
 'app/js/script.js'
+// 'app/js/main.js'
 ];
 
 const vendorJS = [
